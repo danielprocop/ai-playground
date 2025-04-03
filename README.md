@@ -1,7 +1,15 @@
 # AI Playground
 
-A space for experimenting with LLMs, chains, agents and ideas.
+🧪 This is my personal sandbox for experimenting with AI — especially LangChain, LLMs, and agent-based workflows.
 
-Not polished. Just play.
+This repo includes:
+- Prompt engineering tests
+- LangChain chains and tools
+- LLM agent prototypes
+- Anything that helps me learn by doing
 
-🧪 Tools: LangChain, OpenAI, Python
+No structure. No pressure. Just real experimentation.
+
+---
+🚀 Tech: LangChain, OpenAI, Python
+
